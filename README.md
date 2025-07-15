@@ -114,11 +114,7 @@ Multilingual support (FR, AR, EN, DE)
 
 Email: projects.aymanbouaziz086@gmail.com
 
-LinkedIn: Ayman Bouaziz
-
-Instagram: @aymancoder19
-
-GitHub: github.com/AymanBouaziz-19
+LinkedIn: https://www.linkedin.com/in/ayman-bouaziz-7ab181349
 
 
 
@@ -136,11 +132,4 @@ MIT
 > “This isn’t just a website to diagnose a car.
 It’s a showcase to diagnose a developer’s potential.”
 — Ayman Bouaziz
-
-
-
-
----
-
-هل ترغب أن أضع هذا لك بصيغة .md جاهزًا للنسخ أو التحميل؟
 
