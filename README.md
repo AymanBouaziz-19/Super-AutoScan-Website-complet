@@ -116,8 +116,6 @@ Email: projects.aymanbouaziz086@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ayman-bouaziz-7ab181349
 
-
-
 ---
 
 ## 🔖 License
@@ -130,6 +128,5 @@ MIT
 ## 🌟 Quote
 
 > “This isn’t just a website to diagnose a car.
-It’s a showcase to diagnose a developer’s potential.”
+It’s a showcase to diagnose the potential of a developer.”
 — Ayman Bouaziz
-
