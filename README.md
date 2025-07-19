@@ -137,6 +137,8 @@ It’s a showcase to diagnose the potential of a developer.”
 <img width="1331" height="625" alt="image" src="https://github.com/user-attachments/assets/4c5e3b1e-ac89-43d6-872e-2891d105fcb5" />
 <img width="1355" height="621" alt="image" src="https://github.com/user-attachments/assets/bc70bd7d-a050-4c32-a9b2-9c38c07c0fe2" />
 <img width="1346" height="619" alt="image" src="https://github.com/user-attachments/assets/78ea7b5e-ffbc-4931-861e-f133154ad1c1" />
+![1000011031](https://github.com/user-attachments/assets/9b59890c-b17c-41f1-ba66-1aad0a53db02)
+![1000011032](https://github.com/user-attachments/assets/a4a5a3cf-1e55-427c-895e-916b9e96083e)
 
 
 
